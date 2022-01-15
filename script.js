@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Blue and Grey', 'Butter', 'Come and Get it', 'good 4 u', 'Harleys in Hawaii', 'hey', 'Levitating', 'Night Changes', 'Positions', 'Sirivennela', 'Spring day', 'Still with You', 'summer', 'Sweet Night', 'Therefore I Am', 'ukelele', 'Watermelon Sugar', 'Willow'];
+const songs = ['Blue and Grey', 'Butter', 'Come and Get it', 'good 4 u', 'Harleys in Hawaii', 'Levitating', 'Night Changes', 'Positions', 'Sirivennela', 'Spring day', 'Still with You', 'Sweet Night', 'Therefore I Am', 'Watermelon Sugar', 'Willow'];
 
 // Keep track of song
 let songIndex = 2;
